@@ -1,0 +1,3 @@
+Criar formulário com 3 campos ( Invertar o que quiser )
+Mostrar valores digitados no campo ao clicar em submit
+
